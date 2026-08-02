@@ -2,7 +2,7 @@ import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
 import java.awt.event.KeyAdapter;
-import java.awt.event.KeyEvent;
+import java.awt.event.KeyEvent;// bruh
 
 public class MazeGame {
     private static final int tilesize = 37; // Represents the size of each tile in the maze , and I used private static so it's accessible all over the code and I also used final because I don't want this value to be changed after it's initialized.
