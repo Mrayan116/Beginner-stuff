@@ -1,4 +1,4 @@
-import javax.swing.*;//bruhhh
+import javax.swing.*;//bruhhhh
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
