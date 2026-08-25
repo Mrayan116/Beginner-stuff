@@ -7,7 +7,7 @@ import javax.swing.BorderFactory;
 import java.awt.Color;
 import java.awt.BorderLayout;
 import java.awt.Dimension;
-// import the stuff
+// import the stuff.
 public class RestaurantApp {
     
     public static void main(String[] args) {
