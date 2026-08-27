@@ -5,7 +5,7 @@ from quiz_data import quiz_data
 
 # Function to display the current question and choices.
 def show_question():
-    question = quiz_data[current_question]  # Get the current question
+    question = quiz_data[current_question]  # Get the current question.
     qs_label.config(text=question["question"])  # Display the question
 
     # Display the choices on the buttons
