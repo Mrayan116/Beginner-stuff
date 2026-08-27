@@ -1,2 +1,2 @@
 # Beginner-stuff
-Small Idea I have or will have in the future.
+Small Ideas I have or will have in the future.
