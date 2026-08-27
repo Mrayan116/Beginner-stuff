@@ -17,7 +17,7 @@ public class TimeConverter {
         JButton dayOfWeekButton = new JButton("1. Day of the Week");
         JButton leapYearButton = new JButton("2. Leap Year");
         JButton timeConverterButton = new JButton("3. Time Converter");
-//
+// Make the label for input
         JLabel inputLabel = new JLabel("Input:");
         JTextField inputField = new JTextField();
         panel.add(inputLabel);
