@@ -2,8 +2,8 @@ import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
 import java.awt.event.KeyAdapter;
-import java.awt.event.KeyEvent;// bruhh
-//bossmannnn
+import java.awt.event.KeyEvent;
+
 public class MazeGame {
     private static final int tilesize = 37; // Represents the size of each tile in the maze , and I used private static so it's accessible all over the code and I also used final because I don't want this value to be changed after it's initialized.
     private static final int mazeheight = 17;// represents the the the height of the maze(columns), used private static final because its accessible all over the code and I also used final because I don't want this value to be changed after its initialized
