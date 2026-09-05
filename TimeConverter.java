@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
+//Import all the modules
 public class TimeConverter {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Time Converter");
