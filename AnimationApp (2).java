@@ -7,7 +7,7 @@ import java.awt.event.KeyListener;
 
 public class AnimationApp {
     public static void main(String[] args) {
-        // usd a option pane to show the the instruction for the movement
+        // used a option pane to show the the instruction for the movement
         JOptionPane.showMessageDialog(null, 
             "Use Arrow keys to move the character (first character).\n" + "Use WASD keys to move the bear (second character).", "Controls Information", JOptionPane.INFORMATION_MESSAGE);
 
