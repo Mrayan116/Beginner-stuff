@@ -5,7 +5,7 @@ import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 //Import everything
 public class MazeGame {
-    private static final int tilesize = 37; // Represents the size of each tile in the maze , and I used private static so it's accessible all over the code and I also used final because I don't want this value to be changed after it's initialized.
+    private static final int tilesize = 37; // Represents the size of each tile in the maze , and I used private static so  it's accessible all over the code and I also used final because I don't want this value to be changed after it's initialized.
     private static final int mazeheight = 17;// represents the the the height of the maze(columns), used private static final because its accessible all over the code and I also used final because I don't want this value to be changed after its initialized
     private static final int mazewidth = 20;// same thing but for the width (rows) and use private static final
     private int playerrow = 1, playercol = 1;// start the player at col1 and ro1 1, so the player starts off there
